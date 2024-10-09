@@ -1,4 +1,4 @@
-package samples;
+package blog.tsuchiya.mockito_test;
 
 import lombok.RequiredArgsConstructor;
 

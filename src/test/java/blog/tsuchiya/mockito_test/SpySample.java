@@ -1,4 +1,4 @@
-package samples;
+package blog.tsuchiya.mockito_test;
 
 import static org.mockito.Mockito.*;
 
